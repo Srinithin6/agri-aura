@@ -1,0 +1,9 @@
+{
+  "name": "Agri Aura",
+  "description": "A comprehensive agri-tech marketplace and intelligence platform for farmers, offering seeds, tools, and real-time AI expert advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
