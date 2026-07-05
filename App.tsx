@@ -1,8 +1,8 @@
 
 import React, { useState, useMemo, useRef, useEffect } from 'react';
-import Layout from './components/Layout';
-import ProductCard from './components/ProductCard';
-import AgriAuraChat from './components/AgriAuraChat';
+import Layout from './src/components/Layout'; 
+import ProductCard from './src/components/ProductCard'; 
+import AgriAuraChat from './src/components/AgriAuraChat';
 import { Product, CartItem, AppTab, User, Order } from './types';
 import { PRODUCTS, CATEGORIES, OFFERS, Offer } from './constants.tsx';
 
