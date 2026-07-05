@@ -1,6 +1,6 @@
 
 import React, { useState, useMemo, useRef, useEffect } from 'react';
-import './src/index.css';
+import './index.css';
 import Layout from './src/components/Layout'; 
 import ProductCard from './src/components/ProductCard'; 
 import AgriAuraChat from './src/components/AgriAuraChat';
